@@ -1,3 +1,30 @@
+## 📖 Project Overview
+
+TinDog is a modern and responsive landing page for a fictional dog-matching application. The website is designed to help dog owners connect their pets with compatible companions nearby. Built using HTML5, CSS3, and Bootstrap 5, the project demonstrates responsive web design, Bootstrap components, grid layouts, pricing cards, testimonials, and clean user interface principles.
+
+The landing page includes a hero section, feature highlights, customer testimonials, pricing plans, and brand partnerships, providing a complete front-end experience while maintaining responsiveness across different screen sizes and devices.
+
+## 🔗 Resources Used
+
+- Bootstrap 5: https://getbootstrap.com/
+- Bootstrap Icons: https://icons.getbootstrap.com/
+- Font Awesome: https://fontawesome.com/
+- Google Fonts: https://fonts.google.com/
+- GitHub Pages: https://pages.github.com/
+
+## 🎯 Key Features
+
+- Responsive Design
+- Bootstrap Grid System
+- Navigation Bar
+- Hero Section
+- Testimonials Section
+- Pricing Cards
+- Brand Logos Section
+- Mobile-Friendly Layout
+- Clean and Modern UI
+
+
 # TinDog Project
 
 HINT: To fiure out which Bootstrap components/snippets are used. Refer to the PDF below:
